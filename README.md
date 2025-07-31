@@ -62,6 +62,3 @@ Configure your backend API endpoints as needed.
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
